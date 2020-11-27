@@ -2,6 +2,7 @@
 ```
 Tutorial: 
 https://www.johndeoresearch.com/data/
+https://www.youtube.com/watch?v=uO54jOy1ous
 
 Data:
 PSE HISTORICAL DATA

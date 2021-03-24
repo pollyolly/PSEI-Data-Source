@@ -11,6 +11,8 @@ PSE EDGE
 https://pse.com.ph/stockMarket/companyInfo.html?id=145&security=221&tab=0
 https://edge.pse.com.ph/psei/form.do
 
+https://www.pseapi.com/
+
 Note:
 To have live data you just need to use the closing day data in psei to update the data to be displayed in chart.
 ```
